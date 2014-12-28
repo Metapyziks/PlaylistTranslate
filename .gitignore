@@ -1,0 +1,13 @@
+bin/
+*/obj/
+
+*.sln
+*.csproj
+*.user
+
+*.json
+*.xspf
+
+**/Makefile
+
+*.sublime-workspace

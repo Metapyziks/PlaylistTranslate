@@ -1,0 +1,18 @@
+{
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": "."
+        }
+    ],
+    "solution_file": "./PlaylistTranslate.sln",
+    "build_systems":
+    [
+        {
+            "name": "Custom Build",
+            "working_dir": "$project_path",
+            "cmd": ["./build.sh"]
+        }
+    ]
+}
